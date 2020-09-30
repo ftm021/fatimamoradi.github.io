@@ -29,7 +29,7 @@
 ---
 ### Social Media
 
-+ Https://Instagram.com/__.ftm.m.021.__  ‌ 
++ Https://Instagram.com/--.ftm.m.021.--  ‌ 
 ---
 ### ارزیابی رزومه
 ---
