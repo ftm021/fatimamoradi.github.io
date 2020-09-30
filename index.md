@@ -1,4 +1,4 @@
-### Fateme Moradi
+### Fatemeh Moradi
 ---<img src="pic.jpeg">
 ### Skill Highlights
 ---
@@ -14,6 +14,7 @@
 + Certificate: Doll making
 + Has a Technical Degree: Recitation and Sound of the Quran
 + Has a Black Taekwondo belt
+---
 ### Favorites
 ---
 + Sport
@@ -23,7 +24,7 @@
 + Computer Engineering Student
 ### Social Media
 ---
-+ Https://Instagram.com/__.ftm.m.021.__ 
++ Https://Instagram.com/__.ftm.m.021.__  ‌ 
 ### ارزیابی رزومه
 ---
 [رزومه فارسی](/resume-fa)
