@@ -4,7 +4,7 @@
 ### Skill Highlights
 
 + Programming Languages(C++,Java)
-+ ICDL(Word,Access,Excel,Powepoint)
++ ICDL(Word,Access,Excel,PowerPoint)
 + Photoshop
 ---
 ### Education
