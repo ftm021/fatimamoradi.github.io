@@ -23,7 +23,7 @@
 + Computer Engineering Student
 ### Social Media
 ---
-+ Https://Instagram.com/__.ftm.m.021.__
++ Https://Instagram.com/__.ftm.m.021.__ 
 ### ارزیابی رزومه
 ---
-
+[رزومه فارسی](/resume-fa)
