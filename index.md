@@ -1,6 +1,6 @@
 ### Fatemeh Moradi
 ---
-<img src="pic.jpeg">
+---<img src="pic.jpeg">
 ---
 ### Skill Highlights
 + Programming Languages(C++,Java)
