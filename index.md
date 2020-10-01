@@ -3,13 +3,14 @@
 ---<img src="pic.jpeg">
 ---
 ### Skill Highlights
-+ Programming Languages(C++,Java)
-+ ICDL(Word,Access,Excel,PowerPoint)
++ Programming Languages(C++ , Java)
++ ICDL(Word , Access , Excel , PowerPoint)
 + Photoshop
 ---
 ### Education
-+ Diploma: Esmat High School_2018
-+ Students in Computer Engineering
++ Diploma: Esmat High School
+ _2018
++ Students In Computer Engineering
 ---
 ### Other Skills
 + Certificate: Doll making
